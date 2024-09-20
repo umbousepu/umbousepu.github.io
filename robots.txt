@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://umbousepu.github.io/sitemap.html.gz
+Sitemap: https://umbousepu.github.io/app/sitemap.html.gz
+Sitemap: https://umbousepu.github.io/assets/sitemap.html.gz
+Sitemap: https://umbousepu.github.io/css/sitemap.html.gz
+Sitemap: https://umbousepu.github.io/data/sitemap.html.gz
+Sitemap: https://umbousepu.github.io/includes/sitemap.html.gz
+Sitemap: https://umbousepu.github.io/item/sitemap.html.gz
+Sitemap: https://umbousepu.github.io/src/sitemap.html.gz
